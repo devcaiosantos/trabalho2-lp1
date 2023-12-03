@@ -11,4 +11,4 @@ main = do
     let listaB = [3, 4, 5, 6, 7]
 
     let resultadoIntersecao = intersecaoListas listaA listaB
-    print resultadoIntersecao -- Saída: [3, 4, 5]
+    print resultadoIntersecao 
